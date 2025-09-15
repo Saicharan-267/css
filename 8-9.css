@@ -1,0 +1,13 @@
+.nav-container{
+    border: 2px solid;
+}
+.first-container{
+    background-color:lightblue;
+}
+.second-container{
+    background-color:yellow;
+}
+.item-1,.item-2,.item-3{
+    display:inline-block;
+    background-color:orange;
+}
